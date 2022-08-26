@@ -1,5 +1,0 @@
-<keymap version="1" name="Windows copy 1" parent="$default">
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
-</keymap>

@@ -1,0 +1,18 @@
+<keymap version="1" name="Shival" parent="$default">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt k" second-keystroke="alt w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorSelectSingleLineAtCaret">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+</keymap>
