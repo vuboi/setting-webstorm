@@ -1,0 +1,9 @@
+<application>
+  <component name="EditorSettings">
+    <option name="SHOW_INTENTION_PREVIEW" value="true" />
+    <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
+</application>
