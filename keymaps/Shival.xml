@@ -19,7 +19,4 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
-  <action id="angularCliGenerate">
-    <keyboard-shortcut first-keystroke="shift a" second-keystroke="shift n" />
-  </action>
 </keymap>
