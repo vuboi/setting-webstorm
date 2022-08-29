@@ -1,7 +1,9 @@
 <application>
   <component name="UISettings">
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="26" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="25" />
+    <option name="showTreeIndentGuides" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
