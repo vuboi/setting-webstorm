@@ -6,6 +6,10 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="EditorSelectSingleLineAtCaret">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
