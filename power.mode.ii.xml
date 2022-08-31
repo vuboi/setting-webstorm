@@ -1,8 +1,12 @@
 <application>
   <component name="PowerModeII">
+    <option name="customBamImageFolder" value="C:\Program Files\JetBrains\WebStorm 2022.2.1\jbr\bin" />
+    <option name="customFlameImageFolder" value="C:\Program Files\JetBrains\WebStorm 2022.2.1\jbr\bin" />
+    <option name="enabled" value="false" />
     <option name="flamesEnabled" value="false" />
     <option name="hotkeyHeatup" value="false" />
     <option name="isBamEnabled" value="false" />
     <option name="isPowerIndicatorEnabled" value="false" />
+    <option name="soundsFolder" value="C:\Program Files\JetBrains\WebStorm 2022.2.1\jbr\bin" />
   </component>
 </application>
