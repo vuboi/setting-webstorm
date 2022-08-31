@@ -9,20 +9,18 @@
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="" />
+    <option name="lastViewedProviderKeyId" value="TypeScript.ts.type.hints" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
           <option name="showForFunctions" value="true" />
           <option name="showForShorthandFunctions" value="true" />
-          <option name="showForVariablesAndFields" value="true" />
         </Settings>
       </JavaScript.js.type.hints>
       <TypeScript.ts.type.hints>
         <Settings>
           <option name="showForFunctions" value="true" />
           <option name="showForShorthandFunctions" value="true" />
-          <option name="showForVariablesAndFields" value="true" />
         </Settings>
       </TypeScript.ts.type.hints>
     </settingsMapElement>
