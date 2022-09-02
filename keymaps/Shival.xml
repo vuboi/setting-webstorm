@@ -19,8 +19,12 @@
   <action id="EditorSelectSingleLineAtCaret">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="ctrl f9" />
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt equals" />
