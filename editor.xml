@@ -25,6 +25,10 @@
       </TypeScript.ts.type.hints>
     </settingsMapElement>
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>

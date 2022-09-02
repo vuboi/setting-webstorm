@@ -1,10 +1,16 @@
 <keymap version="1" name="Shival" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt k" second-keystroke="alt w" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
@@ -18,6 +24,9 @@
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="alt k" second-keystroke="alt o" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt minus" />
