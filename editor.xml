@@ -11,7 +11,7 @@
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="TypeScript.ts.type.hints" />
+    <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
