@@ -12,7 +12,7 @@
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="Angular2Html.parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="JavaScript.js.chain.hints" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
