@@ -4,12 +4,12 @@
     <property name="created">2022-10-14T16:57:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-10-14T16:59:03</property>
+    <property name="modified">2022-10-14T17:04:58</property>
     <property name="originalScheme">Carbon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Cascadia Code" />
+  <option name="EDITOR_FONT_NAME" value="Cascadia Code PL" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="51966b" />
