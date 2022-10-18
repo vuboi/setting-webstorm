@@ -1,7 +1,7 @@
 <application>
   <component name="px2remForWebStorm">
-    <option name="remBaseValue" value="16" />
-    <option name="showCalculationProcess" value="true" />
+    <option name="remBaseValue" value="16.0" />
+    <option name="showCalculationProcess" value="false" />
     <option name="shortCutType" value="REM" />
     <option name="widthValue" value="1920.0" />
     <option name="heightValue" value="1080.0" />
