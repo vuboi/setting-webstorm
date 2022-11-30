@@ -7,8 +7,6 @@
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.experimental.ui.inter.font" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
-    <entry key="ide.experimental.ui" value="true" />
-    <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="javascript.flow.use.lsp" value="false" />
     <entry key="blank.diff.history.max.items" value="1000" />
     <entry key="clipboard.history.max.items" value="1000" />
